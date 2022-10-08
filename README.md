@@ -3,9 +3,8 @@
 
 <br/>
 
-- 🌱 My specialities are  **Flutter, JS, AWS and React JS**
+- 🌱 My specialities are  **Flutter, JS, Azure and React JS**
 - 🌱 Graduate in Software Development at Southern Institute of Technology, New Zealand
-- 🌱 Great communication skills as the Customer Service Supervisor at Countdown Supermarket
 
 <img src="https://github-profile-trophy.vercel.app/?username=guijacobus2&theme=dracula&column=3&margin-w=15&margin-h=15(https://github.com/ryo-ma/github-profile-trophy">
 
