@@ -132,7 +132,7 @@ _"I leverage AI as a professional tool, not a replacement"_
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=guijacobus2&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&icon_color=A855F7"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guijacobus2&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=guijacobus2&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&hide=php,hack&exclude_repo=repo-name-with-php"/>
 </div>
 
 <div align="center">
