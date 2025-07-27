@@ -176,8 +176,8 @@ _"I leverage AI as a professional tool, not a replacement"_
 
 ### 🤝 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https:/guijacobus.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-jacobus/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)]([https:/guijacobus.com](https://www.guijacobus.com/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/guilherme-jacobus/](https://www.linkedin.com/in/guilherme-jacobus/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guijacobus2@gmail.com)
 
 </div>
