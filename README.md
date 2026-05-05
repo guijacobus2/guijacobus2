@@ -27,7 +27,7 @@
 <td width="50%" align="left">
 
 🎓 **Software Development**  
-📍 **Currently in Auckland, New Zealand**  
+📍 **Brazil**  
 🇧🇷 **Originally from Brazil**  
 🎯 **Specializing in Full-Stack Development**
 
